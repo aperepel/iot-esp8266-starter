@@ -201,6 +201,8 @@ void loop() {
       splashLogo();
       oled.clearDisplay();
       delay(3000);
+      // somewhere around mid-screen with this font and size
+      oled.setCursor(0, 30);
       oled.println(String("My IP: ") + WiFi.localIP().toString());
       oled.display();
       delay(3000);
