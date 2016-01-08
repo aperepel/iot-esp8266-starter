@@ -11,7 +11,7 @@
 #define DEBOUNCE_MS 20
 
 #define OLED_RESET  16
-#define PIN_SDA D4
+#define PIN_SDA D7
 #define PIN_SCL D6
 #define I2C_ADDRESS 0x3c
 
