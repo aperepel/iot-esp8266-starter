@@ -1,0 +1,7 @@
+.pioenvs
+.project
+
+.settings/*
+src/*.ino_
+
+.cproject
