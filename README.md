@@ -14,6 +14,7 @@ are alternative, less robust methods, but not covered here.
 # Show Me!
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/mdC_2jkhn_g/2.jpg?time=1452273766992)](https://www.youtube.com/watch?v=mdC_2jkhn_g "IoT ESP8266 SSD1306 OLED SmartConfig Starter in 4K")
 
+Note: the wiring and code were updated since the video was shot (SDA pin moved from D2 to D7) - current version won't flash the LED on every RX/TX.
 
 # Why?
 Over time I recognized repeatable patterns and best practices I followed for my projects and wanted to
