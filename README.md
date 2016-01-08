@@ -11,6 +11,10 @@ are alternative, less robust methods, but not covered here.
 * Hold the button for 5 seconds - wipes out WiFi credentials and goes into the SmartConfig mode (e.g.
   when you need to connect to a different WiFi network.)
 
+# Show Me!
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/mdC_2jkhn_g/2.jpg?time=1452273766992)](https://www.youtube.com/watch?v=mdC_2jkhn_g "IoT ESP8266 SSD1306 OLED SmartConfig Starter in 4K")
+
+
 # Why?
 Over time I recognized repeatable patterns and best practices I followed for my projects and wanted to
 capture those as a starter project. E.g. if you're interested in a connected device which goes beyond
