@@ -21,7 +21,7 @@ All while interacting with the whole gamut of sensors, the usual Arduino way.
 
 # TBD
 * more efficient sleep for when running on battery (currently draws ~20mA in always-on mode)
-* Fritzing wiring diagram (if it has esp8266 components or similar?)
+* ~~Fritzing wiring diagram (if it has esp8266 components or similar?)~~ http://fritzing.org/projects/iot-esp8266-ssd1306-oled-starter
 * A video demonstrating the flow
 
 # Components
