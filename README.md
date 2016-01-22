@@ -1,5 +1,8 @@
 # Overview
 A base IoT template for ESP8266-based WiFi boards.
+
+Check out the next iteration of the project at https://github.com/aperepel/iot-mqtt-spiffs-deepsleep-oled for more advanced features.
+
 * On startup, it enters the SmartConfig mode and
 awaits for WiFi credentials to be provided (the easiest is to use your smartphone on the same network). There
 are alternative, less robust methods, but not covered here.
